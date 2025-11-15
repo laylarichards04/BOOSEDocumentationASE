@@ -1,0 +1,32 @@
+### YamlMime:TableOfContent
+items:
+- uid: BOOSEAppASE
+  name: BOOSEAppASE
+  type: Namespace
+  items:
+  - uid: BOOSEAppASE.AppCanvas
+    name: AppCanvas
+    type: Class
+  - uid: BOOSEAppASE.AppCircle
+    name: AppCircle
+    type: Class
+  - uid: BOOSEAppASE.AppCommandFactory
+    name: AppCommandFactory
+    type: Class
+  - uid: BOOSEAppASE.AppMoveTo
+    name: AppMoveTo
+    type: Class
+  - uid: BOOSEAppASE.AppRect
+    name: AppRect
+    type: Class
+  - uid: BOOSEAppASE.Form1
+    name: Form1
+    type: Class
+- uid: BOOSETest
+  name: BOOSETest
+  type: Namespace
+  items:
+  - uid: BOOSETest.BOOSEUnitTests
+    name: BOOSEUnitTests
+    type: Class
+memberLayout: SamePage
