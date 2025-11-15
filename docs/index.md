@@ -4,5 +4,6 @@ _layout: landing
 
 # **HOMEPAGE**.
 
-- [BOOSEApp](xref:BOOSEAppASE)  
-- [Unit Tests](xref:BOOSETest)
+- [BOOSEApp](BOOSEAppASE.html)  
+
+- [Unit Tests](BOOSETest.html)
